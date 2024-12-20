@@ -3,6 +3,9 @@
   "description": "Markdown template for phpDocumentor3",
   "authors": [
     {
+      "name": "Aidil"
+    },
+    {
       "name": "Saggre",
       "email": "sakri.koskimies@hotmail.com"
     }
