@@ -1,6 +1,6 @@
 {% import 'include/macros.twig' as macros %}
 
-### {{ method.name }}
+## [{{ method.name }}](#{{- method.name | lower | replace({' ': '-'}) }})
 
 {{ method.summary | raw }}
 
